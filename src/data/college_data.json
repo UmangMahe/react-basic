@@ -1,0 +1,1522 @@
+[
+  {
+    "College Name": "IIT Madras - Indian Institute of Technology Madras",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": 1,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Madras"
+  },
+  {
+    "College Name": "IIT Delhi - Indian Institute of Technology Delhi",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 2,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Delhi"
+  },
+  {
+    "College Name": "IIT Bombay - Indian Institute of Technology Bombay",
+    "Location": "Mumbai, Maharashtra",
+    "NIRF Rankings": 3,
+    "Rating": "4.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Bombay"
+  },
+  {
+    "College Name": "IIT Kanpur - Indian Institute of Technology Kanpur",
+    "Location": "Kanpur, Uttar Pradesh",
+    "NIRF Rankings": 4,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Kanpur"
+  },
+  {
+    "College Name": "IIT Roorkee - Indian Institute of Technology Roorkee",
+    "Location": "Roorkee, Uttarakhand",
+    "NIRF Rankings": 5,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Roorkee"
+  },
+  {
+    "College Name": "IIT Kharagpur - Indian Institute of Technology Kharagpur",
+    "Location": "Kharagpur, West Bengal",
+    "NIRF Rankings": 6,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Kharagpur"
+  },
+  {
+    "College Name": "IIT Guwahati (IITG) - Indian Institute of Technology Guwahati",
+    "Location": "Guwahati, Assam",
+    "NIRF Rankings": 7,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Guwahati"
+  },
+  {
+    "College Name": "IIT Hyderabad - Indian Institute of Technology Hyderabad",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": 8,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Hyderabad"
+  },
+  {
+    "College Name": "NIT Trichy - National Institute of Technology Tiruchirappalli",
+    "Location": "Tiruchirappalli, Tamil Nadu",
+    "NIRF Rankings": 9,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Tiruchirappalli"
+  },
+  {
+    "College Name": "Jadavpur University",
+    "Location": "Kolkata, West Bengal",
+    "NIRF Rankings": 10,
+    "Rating": "4.6/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jadavpur_University"
+  },
+  {
+    "College Name": "VIT Vellore - Vellore Institute of Technology",
+    "Location": "Vellore, Tamil Nadu",
+    "NIRF Rankings": 11,
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology"
+  },
+  {
+    "College Name": "NIT Surathkal (NITK) - National Institute of Technology Karnataka Surathkal",
+    "Location": "Surathkal, Karnataka",
+    "NIRF Rankings": 12,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Karnataka"
+  },
+  {
+    "College Name": "IIT Indore - Indian Institute of Technology Indore",
+    "Location": "Indore, Madhya Pradesh",
+    "NIRF Rankings": 14,
+    "Rating": "4.6/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Indore"
+  },
+  {
+    "College Name": "IIT BHU - Indian Institute of Technology Banaras Hindu University Varanasi",
+    "Location": "Varanasi, Uttar Pradesh",
+    "NIRF Rankings": 15,
+    "Rating": "4.6/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_(BHU)_Varanasi"
+  },
+  {
+    "College Name": "NIT Rourkela - National Institute of Technology Rourkela",
+    "Location": "Rourkela, Odisha",
+    "NIRF Rankings": 16,
+    "Rating": "4.6/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Rourkela"
+  },
+  {
+    "College Name": "IIT (ISM) Dhanbad - Indian Institute of Technology Indian School of Mines Dhanbad",
+    "Location": "Dhanbad, Jharkhand",
+    "NIRF Rankings": 17,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_(ISM)_Dhanbad"
+  },
+  {
+    "College Name": "IIT Gandhinagar - Indian Institute of Technology Gandhinagar",
+    "Location": "Gandhinagar, Gujarat",
+    "NIRF Rankings": 18,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Gandhinagar"
+  },
+  {
+    "College Name": "Thapar University - Thapar Institute of Engineering and Technology",
+    "Location": "Patiala, Punjab",
+    "NIRF Rankings": 20,
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Thapar_Institute_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "NIT Warangal - National Institute of Technology Warangal",
+    "Location": "Warangal, Telangana",
+    "NIRF Rankings": 21,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Warangal"
+  },
+  {
+    "College Name": "IIT Ropar (IIT-RPR) - Indian Institute of Technology Ropar",
+    "Location": "Rupnagar, Punjab",
+    "NIRF Rankings": 22,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Ropar"
+  },
+  {
+    "College Name": "NIT Calicut - National Institute of Technology Calicut",
+    "Location": "Kozhikode, Kerala",
+    "NIRF Rankings": 23,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Calicut"
+  },
+  {
+    "College Name": "ICT Mumbai - Institute of Chemical Technology",
+    "Location": "Mumbai, Maharashtra",
+    "NIRF Rankings": 24,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Institute_of_Chemical_Technology"
+  },
+  {
+    "College Name": "BITS Pilani - Birla Institute of Technology and Science",
+    "Location": "Pilani, Rajasthan",
+    "NIRF Rankings": 25,
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/BITS_Pilani"
+  },
+  {
+    "College Name": "JMI New Delhi - Jamia Millia Islamia",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 26,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jamia_Millia_Islamia"
+  },
+  {
+    "College Name": "Siksha 'O' Anusandhan",
+    "Location": "Bhubaneshwar, Odisha",
+    "NIRF Rankings": 27,
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Siksha_%27O%27_Anusandhan"
+  },
+  {
+    "College Name": "SRM University Chennai - SRM Institute of Science and Technology",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": 28,
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/SRM_Institute_of_Science_and_Technology"
+  },
+  {
+    "College Name": "DTU Delhi - Delhi Technological University",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 29,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Delhi_Technological_University"
+  },
+  {
+    "College Name": "IIT Jodhpur - Indian Institute of Technology Jodhpur",
+    "Location": "Jodhpur, Rajasthan",
+    "NIRF Rankings": 30,
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Jodhpur"
+  },
+  {
+    "College Name": "Amity University",
+    "Location": "Noida, Uttar Pradesh",
+    "NIRF Rankings": 31,
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Amity_University,_Noida"
+  },
+  {
+    "College Name": "AMU Aligarh - Aligarh Muslim University",
+    "Location": "Aligarh, Uttar Pradesh",
+    "NIRF Rankings": 32,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Aligarh_Muslim_University"
+  },
+  {
+    "College Name": "IIT Mandi - Indian Institute of Technology Mandi",
+    "Location": "Mandi, Himachal Pradesh",
+    "NIRF Rankings": 33,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Mandi"
+  },
+  {
+    "College Name": "SASTRA University Thanjavur - Shanmugha Arts Science Technology Research and Academy",
+    "Location": "Thanjavur, Tamil Nadu",
+    "NIRF Rankings": 34,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Shanmugha_Arts,_Science,_Technology_%26_Research_Academy"
+  },
+  {
+    "College Name": "IIEST Shibpur - Indian Institute of Engineering Science and Technology Shibpur",
+    "Location": "Howrah, West Bengal",
+    "NIRF Rankings": 35,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIEST,_Shibpur"
+  },
+  {
+    "College Name": "Kalasalingam Academy of Research and Education",
+    "Location": "Srivilliputtur, Tamil Nadu",
+    "NIRF Rankings": 36,
+    "Rating": "3.7/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Kalasalingam_Academy_of_Research_and_Education"
+  },
+  {
+    "College Name": "MNIT Jaipur - Malaviya National Institute of Technology Jaipur",
+    "Location": "Jaipur, Rajasthan",
+    "NIRF Rankings": 37,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Malaviya_National_Institute_of_Technology,_Jaipur"
+  },
+  {
+    "College Name": "Chandigarh University - Chandigarh University",
+    "Location": "Chandigarh, Chandigarh",
+    "NIRF Rankings": 38,
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Chandigarh_University"
+  },
+  {
+    "College Name": "KIIT University - Kalinga Institute of Industrial Technology",
+    "Location": "Bhubaneshwar, Odisha",
+    "NIRF Rankings": 39,
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Kalinga_Institute_of_Industrial_Technology"
+  },
+  {
+    "College Name": "NIT Silchar - National Institute of Technology Silchar",
+    "Location": "Silchar, Assam",
+    "NIRF Rankings": 40,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Silchar"
+  },
+  {
+    "College Name": "IIT Patna - Indian Institute of Technology Patna",
+    "Location": "Patna, Bihar",
+    "NIRF Rankings": 41,
+    "Rating": "4.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Patna"
+  },
+  {
+    "College Name": "VNIT Nagpur - Visvesvaraya National Institute of Technology Nagpur",
+    "Location": "Nagpur, Maharashtra",
+    "NIRF Rankings": 41,
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Visvesvaraya_National_Institute_of_Technology_Nagpur"
+  },
+  {
+    "College Name": "NIT Durgapur - National Institute of Technology Durgapur",
+    "Location": "Durgapur, West Bengal",
+    "NIRF Rankings": 43,
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Durgapur"
+  },
+  {
+    "College Name": "KL University Guntur - Koneru Lakshmaiah Education Foundation",
+    "Location": "Guntur, Andhra Pradesh",
+    "NIRF Rankings": 44,
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/KL_University"
+  },
+  {
+    "College Name": "SSN College of Engineering - Sri Sivasubramaniya Nadar College of Engineering",
+    "Location": "Kelambakkam, Tamil Nadu",
+    "NIRF Rankings": 45,
+    "Rating": "4.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Sivasubramaniya_Nadar_College_of_Engineering"
+  },
+  {
+    "College Name": "NIT Jalandhar - Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "Location": "Jalandhar, Punjab",
+    "NIRF Rankings": 46,
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Dr._B._R._Ambedkar_National_Institute_of_Technology_Jalandhar"
+  },
+  {
+    "College Name": "IIT Bhubaneswar - Indian Institute of Technology Bhubaneswar",
+    "Location": "Bhubaneshwar, Odisha",
+    "NIRF Rankings": 47,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Bhubaneswar"
+  },
+  {
+    "College Name": "IIST Thiruvananthapuram - Indian Institute of Space Science and Technology",
+    "Location": "Thiruvananthapuram, Kerala",
+    "NIRF Rankings": 48,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indian_Institute_of_Space_Science_and_Technology"
+  },
+  {
+    "College Name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology Allahabad Prayagraj",
+    "Location": "Allahabad, Uttar Pradesh",
+    "NIRF Rankings": 49,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Motilal_Nehru_National_Institute_of_Technology,_Prayagraj"
+  },
+  {
+    "College Name": "LPU Jalandhar - Lovely Professional University",
+    "Location": "Phagwara, Punjab",
+    "NIRF Rankings": 50,
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Lovely_Professional_University"
+  },
+  {
+    "College Name": "NIT Delhi - National Institute of Technology Delhi",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 51,
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Delhi"
+  },
+  {
+    "College Name": "Visvesvaraya Technological University",
+    "Location": "Belgaum, Karnataka",
+    "NIRF Rankings": 52,
+    "Rating": "5.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Visvesvaraya_Technological_University"
+  },
+  {
+    "College Name": "Birla Institute of Technology",
+    "Location": "Pilani, Rajasthan",
+    "NIRF Rankings": 53,
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Birla_Institute_of_Technology,_Mesra"
+  },
+  {
+    "College Name": "IIIT Hyderabad - International Institute of Information Technology",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": 55,
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Hyderabad"
+  },
+  {
+    "College Name": "NIT Patna - National Institute of Technology Patna",
+    "Location": "Patna, Bihar",
+    "NIRF Rankings": 56,
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Patna"
+  },
+  {
+    "College Name": "DIAT Pune - Defence Institute of Advanced Technology",
+    "Location": "Pune, Maharashtra",
+    "NIRF Rankings": 57,
+    "Rating": "",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Defence_Institute_of_Advanced_Technology"
+  },
+  {
+    "College Name": "NIT Kurukshetra - National Institute of Technology Kurukshetra",
+    "Location": "Kurukshetra, Haryana",
+    "NIRF Rankings": 58,
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Kurukshetra"
+  },
+  {
+    "College Name": "IIT Tirupati - Indian Institute of Technology Tirupati",
+    "Location": "Tirupati, Andhra Pradesh",
+    "NIRF Rankings": 59,
+    "Rating": "4.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Tirupati"
+  },
+  {
+    "College Name": "NSUT Delhi - Netaji Subhas University of Technology",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 60,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Netaji_Subhas_University_of_Technology"
+  },
+  {
+    "College Name": "MIT Manipal - Manipal Institute of Technology",
+    "Location": "Manipal, Karnataka",
+    "NIRF Rankings": 61,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Manipal_Institute_of_Technology"
+  },
+  {
+    "College Name": "Graphic Era University",
+    "Location": "Dehradun, Uttarakhand",
+    "NIRF Rankings": 62,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Graphic_Era"
+  },
+  {
+    "College Name": "PSG Tech Coimbatore - PSG College of Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": 63,
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/PSG_College_of_Technology"
+  },
+  {
+    "College Name": "SVNIT Surat - Sardar Vallabhbhai National Institute of Technology Surat",
+    "Location": "Surat, Gujarat",
+    "NIRF Rankings": 65,
+    "Rating": "4.1/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_National_Institute_of_Technology,_Surat"
+  },
+  {
+    "College Name": "Sathyabama University - Sathyabama Institute of Science and Technology",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": 66,
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sathyabama_Institute_of_Science_and_Technology"
+  },
+  {
+    "College Name": "IIT Jammu - Indian Institute of Technology Jammu",
+    "Location": "Jammu, Jammu and Kashmir",
+    "NIRF Rankings": 67,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Jammu"
+  },
+  {
+    "College Name": "Banasthali Vidyapith",
+    "Location": "Pilani, Rajasthan",
+    "NIRF Rankings": 68,
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Banasthali_Vidyapith"
+  },
+  {
+    "College Name": "IIT Palakkad - Indian Institute of Technology Palakkad",
+    "Location": "Palakkad, Kerala",
+    "NIRF Rankings": 69,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Palakkad"
+  },
+  {
+    "College Name": "NIT Raipur - National Institute of Technology Raipur",
+    "Location": "Raipur, Chhattisgarh",
+    "NIRF Rankings": 70,
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Raipur"
+  },
+  {
+    "College Name": "University of Hyderabad - University of Hyderabad",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": 71,
+    "Rating": "4.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/University_of_Hyderabad"
+  },
+  {
+    "College Name": "NIT Meghalaya - National Institute of Technology Meghalaya",
+    "Location": "Shillong, Meghalaya",
+    "NIRF Rankings": 72,
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Meghalaya"
+  },
+  {
+    "College Name": "COEP Pune - COEP Technological University",
+    "Location": "Pune, Maharashtra",
+    "NIRF Rankings": 73,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/College_of_Engineering,_Pune"
+  },
+  {
+    "College Name": "IIIT Bangalore - International Institute of Information Technology Bangalore",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": 74,
+    "Rating": "4.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/International_Institute_of_Information_Technology,_Bangalore"
+  },
+  {
+    "College Name": "IIIT Delhi - Indraprastha Institute of Information Technology",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 75,
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indraprastha_Institute_of_Information_Technology,_Delhi"
+  },
+  {
+    "College Name": "Manipal University",
+    "Location": "Jaipur, Rajasthan",
+    "NIRF Rankings": 76,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Manipal_University_Jaipur"
+  },
+  {
+    "College Name": "SKCET Coimbatore - Sri Krishna College of Engineering and Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": 77,
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Krishna_College_of_Engineering_%26_Technology"
+  },
+  {
+    "College Name": "MSRIT Bangalore - Ramaiah Institute of Technology",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": 78,
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Ramaiah_Institute_of_Technology"
+  },
+  {
+    "College Name": "Rajiv Gandhi Institute of Petroleum Technology",
+    "Location": "Amethi, Uttar Pradesh",
+    "NIRF Rankings": 79,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_Institute_of_Petroleum_Technology"
+  },
+  {
+    "College Name": "MANIT Bhopal - Maulana Azad National Institute of Technology Bhopal",
+    "Location": "Bhopal, Madhya Pradesh",
+    "NIRF Rankings": 80,
+    "Rating": "4.1/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Maulana_Azad_National_Institute_of_Technology"
+  },
+  {
+    "College Name": "IIT Bhilai - Indian Institute of Technology Bhilai",
+    "Location": "Bhilai, Chhattisgarh",
+    "NIRF Rankings": 81,
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Bhilai"
+  },
+  {
+    "College Name": "NIT Srinagar - National Institute of Technology Srinagar",
+    "Location": "Srinagar, Jammu and Kashmir",
+    "NIRF Rankings": 82,
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Srinagar"
+  },
+  {
+    "College Name": "GGSIPU Delhi - Guru Gobind Singh Indraprastha University",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": 84,
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh_Indraprastha_University"
+  },
+  {
+    "College Name": "Vignan's Foundation for Science Technology and Research",
+    "Location": "Guntur, Andhra Pradesh",
+    "NIRF Rankings": 85,
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vignan%27s_Foundation_for_Science,_Technology_%26_Research"
+  },
+  {
+    "College Name": "Rajalakshmi Engineering College",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": 86,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Rajalakshmi_Engineering_College"
+  },
+  {
+    "College Name": "Vel Tech Chennai - Vel Tech Rangarajan Dr Sagunthala R and D Institute of Science and Technology",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": 87,
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vel_Tech_Rangarajan_Dr._Sagunthala_R%26D_Institute_of_Science_and_Technology"
+  },
+  {
+    "College Name": "IIITM Gwalior - Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior",
+    "Location": "Gwalior, Madhya Pradesh",
+    "NIRF Rankings": 88,
+    "Rating": "4.1/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee_Indian_Institute_of_Information_Technology_and_Management"
+  },
+  {
+    "College Name": "IIIT Allahabad - Indian Institute of Information Technology Allahabad",
+    "Location": "Allahabad, Uttar Pradesh",
+    "NIRF Rankings": 89,
+    "Rating": "4.6/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Allahabad"
+  },
+  {
+    "College Name": "NIT Goa - National Institute of Technology Goa",
+    "Location": "Ponda, Goa",
+    "NIRF Rankings": 90,
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Goa"
+  },
+  {
+    "College Name": "NIT Agartala - National Institute of Technology Agartala",
+    "Location": "Agartala, Tripura",
+    "NIRF Rankings": 91,
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology_Agartala"
+  },
+  {
+    "College Name": "Chitkara University Chandigarh - Chitkara University",
+    "Location": "Patiala, Punjab",
+    "NIRF Rankings": 92,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Chitkara_University,_Punjab"
+  },
+  {
+    "College Name": "IIT Dharwad - Indian Institute of Technology Dharwad",
+    "Location": "Dharwad, Karnataka",
+    "NIRF Rankings": 93,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/IIT_Dharwad"
+  },
+  {
+    "College Name": "Andhra University College of Engineering",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "NIRF Rankings": 94,
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Andhra_University_College_of_Engineering"
+  },
+  {
+    "College Name": "NIT Manipur (NITMN) - National Institute of Technology Manipur",
+    "Location": "Imphal, Manipur",
+    "NIRF Rankings": 95,
+    "Rating": "3.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Manipur"
+  },
+  {
+    "College Name": "RVCE Bangalore - RV College of Engineering",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": 96,
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/R.V._College_of_Engineering"
+  },
+  {
+    "College Name": "IIITDM Jabalpur - PDPM Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+    "Location": "Jabalpur, Madhya Pradesh",
+    "NIRF Rankings": 97,
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Design_and_Manufacturing,_Jabalpur"
+  },
+  {
+    "College Name": "SR University",
+    "Location": "Warangal, Telangana",
+    "NIRF Rankings": 98,
+    "Rating": "4.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/SR_University"
+  },
+  {
+    "College Name": "Amity University Gurgaon - Amity University",
+    "Location": "Gurgaon, Haryana",
+    "NIRF Rankings": 99,
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Amity_University,_Noida"
+  },
+  {
+    "College Name": "CV Raman Global University",
+    "Location": "Bhubaneshwar, Odisha",
+    "NIRF Rankings": 100,
+    "Rating": "3.7/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/C._V._Raman_Global_University"
+  },
+  {
+    "College Name": "SIT Tumkur - Siddaganga Institute of Technology",
+    "Location": "Tumkur, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Siddaganga_Institute_of_Technology"
+  },
+  {
+    "College Name": "PSGITECH Coimbatore - PSG Institute of Technology and Applied Research",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/PSG_College_of_Technology"
+  },
+  {
+    "College Name": "KPRIET Coimbatore - KPR Institute of Engineering and Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/KPR_Institute_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "CIT Coimbatore - Coimbatore Institute of Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Coimbatore_Institute_of_Technology"
+  },
+  {
+    "College Name": "VNR VJIET Hyderabad - VNR Vignana Jyothi Institute of Engineering and Technology",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/VNR_Vignana_Jyothi_Institute_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "Vels University Chennai - Vel's Institute of Science Technology and Advanced Studies",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vels_Institute_of_Science,_Technology_%26_Advanced_Studies"
+  },
+  {
+    "College Name": "NIT Uttarakhand (NIT UK) - National Institute of Technology Uttarakhand",
+    "Location": "Srinagar, Uttarakhand",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Uttarakhand"
+  },
+  {
+    "College Name": "PEC Chandigarh - Punjab Engineering College",
+    "Location": "Chandigarh, Chandigarh",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Punjab_Engineering_College"
+  },
+  {
+    "College Name": "Karunya University - Karunya Institute of Technology and Sciences",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Karunya_Institute_of_Technology_and_Sciences"
+  },
+  {
+    "College Name": "NCU - The NorthCap University",
+    "Location": "Gurgaon, Haryana",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/The_NorthCap_University"
+  },
+  {
+    "College Name": "IIITDM Kancheepuram - Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Design_and_Manufacturing,_Kancheepuram"
+  },
+  {
+    "College Name": "JNTUK Kakinada - Jawaharlal Nehru Technological University",
+    "Location": "Kakinada, Andhra Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru_Technological_University,_Kakinada"
+  },
+  {
+    "College Name": "Shoolini University Solan - Shoolini University of Biotechnology and Management Sciences",
+    "Location": "Solan, Himachal Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Shoolini_University_of_Biotechnology_and_Management_Sciences"
+  },
+  {
+    "College Name": "TCE Madurai - Thiagarajar College of Engineering",
+    "Location": "Madurai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Thiagarajar_College_of_Engineering"
+  },
+  {
+    "College Name": "GRIET Hyderabad - Gokaraju Rangaraju Institute of Engineering and Technology",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Gokaraju_Rangaraju_Institute_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "NMAM Institute of Technology",
+    "Location": "Karkala, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/N.M.A.M._Institute_of_Technology"
+  },
+  {
+    "College Name": "Anurag University - Anurag University",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Anurag_University"
+  },
+  {
+    "College Name": "NIT Hamirpur (NITH) - National Institute of Technology Hamirpur",
+    "Location": "Hamirpur, Himachal Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Hamirpur"
+  },
+  {
+    "College Name": "HITS Chennai - Hindustan Institute of Technology and Science",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Hindustan_Institute_of_Technology_and_Science"
+  },
+  {
+    "College Name": "NIFTEM-T - National Institute of Food Technology",
+    "Location": "Thanjavur, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "5.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/T"
+  },
+  {
+    "College Name": "Sri Krishna College of Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.7/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Krishna_College_of_Engineering_%26_Technology"
+  },
+  {
+    "College Name": "Mepco Schlenk Engineering College",
+    "Location": "Melamattur, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.8/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Mepco_Schlenk_Engineering_College"
+  },
+  {
+    "College Name": "NIET Greater Noida - Noida Institute of Engineering and Technology",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%8B%E0%A4%8F%E0%A4%A1%E0%A4%BE_%E0%A4%87%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%80%E0%A4%9F%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F_%E0%A4%91%E0%A4%AB_%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%B0%E0%A4%BF%E0%A4%82%E0%A4%97_%E0%A4%94%E0%A4%B0_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%BF%E0%A4%95%E0%A5%80"
+  },
+  {
+    "College Name": "NIT Jamshedpur - National Institute of Technology Jamshedpur",
+    "Location": "Jamshedpur, Jharkhand",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Jamshedpur"
+  },
+  {
+    "College Name": "MAKAUT Kolkata - Maulana Abul Kalam Azad University of Technology",
+    "Location": "Kolkata, West Bengal",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.4/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Maulana_Abul_Kalam_Azad_University_of_Technology"
+  },
+  {
+    "College Name": "YMCA Faridabad - JC Bose University of Science and Technology",
+    "Location": "Faridabad, Haryana",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/J.C._Bose_University_of_Science_and_Technology,_YMCA"
+  },
+  {
+    "College Name": "SMVDU Katra - Shri Mata Vaishno Devi University",
+    "Location": "Katra, Jammu and Kashmir",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Shri_Mata_Vaishno_Devi_University"
+  },
+  {
+    "College Name": "BMSCE Bangalore - BMS College of Engineering",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/B.M.S._College_of_Engineering"
+  },
+  {
+    "College Name": "VJTI Mumbai - Veermata Jijabai Technological Institute",
+    "Location": "Mumbai, Maharashtra",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Veermata_Jijabai_Technological_Institute"
+  },
+  {
+    "College Name": "PES University",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/PES_University"
+  },
+  {
+    "College Name": "Galgotias University - Galgotias University",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Galgotias_University"
+  },
+  {
+    "College Name": "GITAM University - GITAM University",
+    "Location": "Visakhapatnam, Andhra Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Gandhi_Institute_of_Technology_and_Management"
+  },
+  {
+    "College Name": "University College of Engineering",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/University_of_Visvesvaraya_College_of_Engineering"
+  },
+  {
+    "College Name": "KEC Erode - Kongu Engineering College",
+    "Location": "Perundurai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Kongu_Engineering_College"
+  },
+  {
+    "College Name": "Kumaraguru College of Technology",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Kumaraguru_College_of_Technology"
+  },
+  {
+    "College Name": "NIT Puducherry - National Institute of Technology Puducherry Karaikal",
+    "Location": "Thiruvettakudy, Puducherry",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Puducherry"
+  },
+  {
+    "College Name": "NIT Arunachal Pradesh - National Institute of Technology Arunachal Pradesh",
+    "Location": "Papum Pare, Arunachal Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "3.8/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Arunachal_Pradesh"
+  },
+  {
+    "College Name": "VSSUT Sambalpur - Veer Surendra Sai University of Technology",
+    "Location": "Sambalpur, Odisha",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Veer_Surendra_Sai_University_of_Technology"
+  },
+  {
+    "College Name": "Christ University - Christ University",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Christ_University"
+  },
+  {
+    "College Name": "JIIT Noida - Jaypee Institute of Information Technology",
+    "Location": "Noida, Uttar Pradesh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jaypee_Institute_of_Information_Technology"
+  },
+  {
+    "College Name": "BSAU Chennai - BS Abdur Rahman Crescent Institute of Science and Technology",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/B.S._Abdur_Rahman_Crescent_Institute_of_Science_and_Technology"
+  },
+  {
+    "College Name": "PUCHD - Panjab University",
+    "Location": "Chandigarh, Chandigarh",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Panjab_University"
+  },
+  {
+    "College Name": "Amity University",
+    "Location": "Jaipur, Rajasthan",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Amity_University,_Jaipur"
+  },
+  {
+    "College Name": "Nirma University - Nirma University",
+    "Location": "Ahmedabad, Gujarat",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Nirma_University"
+  },
+  {
+    "College Name": "CEC Landran - Chandigarh Engineering College",
+    "Location": "Landran, Punjab",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Chandigarh_Group_of_Colleges"
+  },
+  {
+    "College Name": "Jain Deemed to be University",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "101-150",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jain_University"
+  },
+  {
+    "College Name": "NIFFT Ranchi - National Institute of Advanced Manufacturing Technology",
+    "Location": "Ranchi, Jharkhand",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.7/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Advanced_Manufacturing_Technology"
+  },
+  {
+    "College Name": "GL Bajaj Institute of Technology and Management",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.6/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jamnalal_Bajaj_Institute_of_Management_Studies"
+  },
+  {
+    "College Name": "IEM Kolkata - Institute of Engineering and Management",
+    "Location": "Kolkata, West Bengal",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Institute_of_Engineering_and_Management"
+  },
+  {
+    "College Name": "GCET Greater Noida - Galgotias College of Engineering and Technology",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Galgotias_College"
+  },
+  {
+    "College Name": "KIET Group of Institutions",
+    "Location": "Ghaziabad, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.7/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "NULL"
+  },
+  {
+    "College Name": "JSS Science and Technology University",
+    "Location": "Mysuru, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/JSS_Science_and_Technology_University"
+  },
+  {
+    "College Name": "NIFTEM Sonepat - National Institute of Food Technology Entrepreneurship and Management",
+    "Location": "Sonipat, Haryana",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Food_Technology_Entrepreneurship_and_Management"
+  },
+  {
+    "College Name": "SLIET Longowal - Sant Longowal Institute of Engineering and Technology",
+    "Location": "Longowal, Punjab",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sant_Longowal_Institute_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "IGDTUW Delhi - Indira Gandhi Delhi Technical University for Women",
+    "Location": "New Delhi, Delhi",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indira_Gandhi_Delhi_Technical_University_for_Women"
+  },
+  {
+    "College Name": "IIIT Guwahati - Indian Institute of Information Technology",
+    "Location": "Guwahati, Assam",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Indian_Institutes_of_Information_Technology"
+  },
+  {
+    "College Name": "RAIT Navi Mumbai - Ramrao Adik Institute of Technology",
+    "Location": "Navi Mumbai, Maharashtra",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.7/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Ramrao_Adik_Institute_of_Technology"
+  },
+  {
+    "College Name": "NIE Mysore - The National Institute of Engineering",
+    "Location": "Mysuru, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Engineering"
+  },
+  {
+    "College Name": "Amity University",
+    "Location": "Gwalior, Madhya Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Amity_University,_Gwalior"
+  },
+  {
+    "College Name": "Sharda University - Sharda University",
+    "Location": "Greater Noida, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sharda_University"
+  },
+  {
+    "College Name": "CMRIT Bangalore - CMR Institute of Technology",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/CMR_Institute_of_Technology"
+  },
+  {
+    "College Name": "SVCE Sriperumbudur - Sri Venkateswara College of Engineering",
+    "Location": "Kanchipuram, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Venkateswara_College_of_Engineering"
+  },
+  {
+    "College Name": "Sri Sai Ram Engineering College",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Sai_Ram_Engineering_College"
+  },
+  {
+    "College Name": "AIT Pune - Army Institute of Technology",
+    "Location": "Pune, Maharashtra",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Army_Institute_of_Technology"
+  },
+  {
+    "College Name": "VIT Pune - Vishwakarma Institute of Technology",
+    "Location": "Pune, Maharashtra",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.1/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vishwakarma_Institute_of_Technology"
+  },
+  {
+    "College Name": "RIT Chennai - Rajalakshmi Institute of Technology",
+    "Location": "Thirumazhisai, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Rajalakshmi_Institute_of_Technology"
+  },
+  {
+    "College Name": "Easwari Engineering College",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.8/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Easwari_Engineering_College"
+  },
+  {
+    "College Name": "PEC Puducherry - Puducherry Technological University",
+    "Location": "Puducherry, Puducherry",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Puducherry_Technological_University"
+  },
+  {
+    "College Name": "Sri Ramakrishna Engineering College",
+    "Location": "Coimbatore, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sri_Ramakrishna_Engineering_College"
+  },
+  {
+    "College Name": "Tezpur University - Tezpur University",
+    "Location": "Tezpur, Assam",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.1/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Tezpur_University"
+  },
+  {
+    "College Name": "MMU Ambala - Maharishi Markandeshwar University",
+    "Location": "Ambala, Haryana",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Maharishi_Markandeshwar_University,_Mullana"
+  },
+  {
+    "College Name": "MSU Baroda - Maharaja Sayajirao University of Baroda",
+    "Location": "Vadodara, Gujarat",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Maharaja_Sayajirao_University_of_Baroda"
+  },
+  {
+    "College Name": "CVR College of Engineering",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.0/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/CVR_College_of_Engineering"
+  },
+  {
+    "College Name": "MANNU Hyderabad - Maulana Azad National Urdu University",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.9/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Maulana_Azad_National_Urdu_University"
+  },
+  {
+    "College Name": "NHCE Bangalore - New Horizon College of Engineering",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/New_Horizon_College_of_Engineering"
+  },
+  {
+    "College Name": "IARE Hyderabad - Institute of Aeronautical Engineering",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Institute_of_Aeronautical_Engineering"
+  },
+  {
+    "College Name": "Vardhaman College of Engineering",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Vardhaman_College_of_Engineering"
+  },
+  {
+    "College Name": "NERIST Nirjuli - North Eastern Regional Institute of Science and Technology",
+    "Location": "Itanagar, Arunachal Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/North_Eastern_Regional_Institute_of_Science_and_Technology"
+  },
+  {
+    "College Name": "MB College of Engineering and Technology",
+    "Location": "Tirupati, Andhra Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Mar_Baselios_College_of_Engineering_and_Technology"
+  },
+  {
+    "College Name": "NMIT Bangalore - Nitte Meenakshi Institute of Technology",
+    "Location": "Bangalore, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.8/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Nitte_Meenakshi_Institute_of_Technology"
+  },
+  {
+    "College Name": "PESCE Mandya - PES College of Engineering",
+    "Location": "Mandya, Karnataka",
+    "NIRF Rankings": "151-200",
+    "Rating": "3.9/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/P.E.S._College_of_Engineering"
+  },
+  {
+    "College Name": "Sona College of Technology",
+    "Location": "Salem, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Sona_College_of_Technology"
+  },
+  {
+    "College Name": "RMK Engineering College",
+    "Location": "Tiruvallur, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.4/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/RMK_Engineering_College"
+  },
+  {
+    "College Name": "College of Engineering",
+    "Location": "Thiruvananthapuram, Kerala",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.5/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Engineering_education"
+  },
+  {
+    "College Name": "Mahindra University",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.8/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Mahindra_University"
+  },
+  {
+    "College Name": "Annamalai University - Annamalai University",
+    "Location": "Annamalai Nagar, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.0/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Annamalai_University"
+  },
+  {
+    "College Name": "GHRCE Nagpur - GH Raisoni College of Engineering",
+    "Location": "Nagpur, Maharashtra",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/G._H._Raisoni_College_of_Engineering_Nagpur"
+  },
+  {
+    "College Name": "NIT Sikkim - National Institute of Technology Sikkim",
+    "Location": "Barfung, Sikkim",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/National_Institute_of_Technology,_Sikkim"
+  },
+  {
+    "College Name": "JUIT Solan - Jaypee University of Information Technology",
+    "Location": "Solan, Himachal Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Jaypee_University_of_Information_Technology"
+  },
+  {
+    "College Name": "DEI Agra - Dayalbagh Educational Institute",
+    "Location": "Agra, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Public/Govt",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Dayalbagh_Educational_Institute"
+  },
+  {
+    "College Name": "CBIT Hyderabad - Chaitanya Bharathi Institute of Technology",
+    "Location": "Hyderabad, Telangana",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Chaitanya_Bharathi_Institute_of_Technology"
+  },
+  {
+    "College Name": "RCOEM Nagpur - Shri Ramdeobaba College of Engineering and Management",
+    "Location": "Nagpur, Maharashtra",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Shri_Ramdeobaba_College_of_Engineering_and_Management"
+  },
+  {
+    "College Name": "CIT Chennai - Chennai Institute of Technology",
+    "Location": "Chennai, Tamil Nadu",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.5/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Chennai_Institute_of_Technology"
+  },
+  {
+    "College Name": "VRSEC Vijayawada - Velagapudi Ramakrishna Siddhartha Engineering College",
+    "Location": "Vijayawada, Andhra Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.2/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/Velagapudi_Ramakrishna_Siddhartha_Engineering_College"
+  },
+  {
+    "College Name": "GLA University",
+    "Location": "Mathura, Uttar Pradesh",
+    "NIRF Rankings": "151-200",
+    "Rating": "4.3/5",
+    "College Type": "Private",
+    "Wikipedia_Link": "https://en.wikipedia.org/wiki/GLA_University"
+  }
+]
